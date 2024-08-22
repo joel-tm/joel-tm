@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on **anything (tbh) - am a quick learner**
+- 👯 I’m looking to collaborate on **intresting projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
