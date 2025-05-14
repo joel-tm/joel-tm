@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm joel-tm</h1>
 <h3 align="center">a passionate engineer</h3>
 
-- 🔭 I’m currently working on **solidworks**
-
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on **Robotics projects**
+- 👯 I’m looking to collaborate on **Robotics projects** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
