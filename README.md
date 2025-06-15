@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Joel Mathew</h1>
+<h1 align="center">Hi 👋, I'm Joel T Mathew</h1>
 <h3 align="center">Maker</h3>
 
 - 🌱 I’m currently learning **python**
