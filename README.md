@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Joel Mathew</h1>
-<h3 align="center">a passionate engineer</h3>
+<h3 align="center">Maker</h3>
 
 - 🌱 I’m currently learning **python**
 
