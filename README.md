@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Joel T Mathew</h1>
 <h3 align="center">Maker</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently architecting software products 
 
 - 👯 I’m looking to collaborate on **Robotics projects** 
 
