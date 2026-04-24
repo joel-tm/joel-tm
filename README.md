@@ -1,7 +1,10 @@
 <div align="center">
   <!-- COSMIC PARALLAX HEADER WITH 3D DEPTH EFFECT -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=635&lines=INITIALIZING...;Welcome+TO+Joel's+GITHUB;WELCOME+TO+Joel'S+Repositories" alt="Animated text: Initializing... Link Established, Welcome to Joel tm's Github" /></a>
-  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=635&lines=INITIALIZING...;Welcome+TO+Joel%27s+GITHUB;WELCOME+TO+Joel%27S+Repositories"
+       alt="Animated text: Initializing... Link Established, Welcome to Joel tm's Github" />
+</a>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Joel%20tm&fontSize=90&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=Full stack Engineer%20%20&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Joel-tm - Full Stack Engineer" />
 
 </div>
