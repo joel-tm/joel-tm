@@ -11,7 +11,7 @@
 
 <p align="center">
   <!-- ADVANCED ANIMATED TYPING WITH ENHANCED EFFECTS -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=AZURE+INFRASTRUCTURE+EXPERT;FULL-STACK+ENGINEERING+%7C+AI%2FML+BUILDING;ROBOTICS%20DEVELOPMENT+%7C+SOFTWARE+ARCHITECTURE;" alt="Animated text: Azure end to end development, Database development, Full-Stack Engineering, AI/ML Implementation," />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=AZURE+INFRASTRUCTURE+EXPERT;FULL-STACK+ENGINEERING+%7C+AI%2FML+BUILDING;ROBOTICS%20DEVELOPMENT+%7C+SOFTWARE+ARCHITECTURE;" alt="Animated text: Azure end to end development, Database development, Full-Stack Engineering, AI/ML Implementation," />
 </p>
 
 <!-- 3D HUD ANIMATION - CYBERPUNK STYLE -->
