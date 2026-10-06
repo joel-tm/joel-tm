@@ -177,11 +177,14 @@
 <!-- robotics SIGNATURES WITH ADVANCED VISUALIZATION -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
+<!--
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40" alt="">
   <span style="color:#00FFFF"> SIGNATURES </span>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40" alt="">
 </h2>
+-->
 
 <!-- ENHANCED ACTIVITY GRAPH WITH HOLOGRAPHIC EFFECT -->
 <div align="center">
