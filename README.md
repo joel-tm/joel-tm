@@ -54,8 +54,7 @@
 </h2>
 <!-- <h3 align="center">My Profile Overview</h3> -->
 <p align="left">
-  Software Engineer specializing in full-stack development, microservices, and Azure-based cloud solutions.<br>
-  I enjoy working with AI and automation<br>
+  Software Engineer specializing in full-stack development, microservices, and Azure-based cloud solutions.
   Knowledgable in hardware - raspberry pi, arduino, robotics building
 </p>
 <!-- ENHANCED CYBERNETIC PROFILE WITH 3D ANIMATION -->
@@ -187,9 +186,11 @@
 -->
 
 <!-- ENHANCED ACTIVITY GRAPH WITH HOLOGRAPHIC EFFECT -->
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joel-tm&theme=react-dark&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Activity Graph"/>
 </div>
+-->
 
 <!-- ENHANCED STATISTICS DISPLAY -->
 <table align="center">
@@ -200,7 +201,7 @@
 </table>
 
 <!-- HOLOGRAPHIC SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt=""> -->
 
 <!-- ENHANCED CONTACT SECTION -->
 <div align="center">
