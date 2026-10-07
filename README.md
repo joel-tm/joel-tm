@@ -1,10 +1,4 @@
 <div align="center">
-  <!-- COSMIC PARALLAX HEADER WITH 3D DEPTH EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=635&lines=INITIALIZING...;Welcome+TO+Joel%27s+GITHUB;WELCOME+TO+Joel%27S+Repositories"
-       alt="Animated text: Initializing... Link Established, Welcome to Joel tm's Github" />
-</a>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Joel%20tm&fontSize=55&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=Full%20stack%20Engineer&descAlignY=62&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Joel-tm - Full Stack Engineer" />
 
 </div>
@@ -14,9 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=AZURE+INFRASTRUCTURE+EXPERT;FULL-STACK+ENGINEERING+%7C+AI%2FML+BUILDING;ROBOTICS%20DEVELOPMENT+%7C+SOFTWARE+ARCHITECTURE;" alt="Animated text: Azure end to end development, Database development, Full-Stack Engineering, AI/ML Implementation," />
 </p>
 
-<!-- 3D HUD ANIMATION - CYBERPUNK STYLE -->
-<div align="center">
-</div>
 
 <!-- BADGES & CONTRIBUTIONS SECTION -->
 <div align="center">
