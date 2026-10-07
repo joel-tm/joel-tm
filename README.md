@@ -14,13 +14,10 @@
   <table align="center">
     <tr>
       <td align="center" valign="middle">
-        <a href="https://stackoverflow.com/users/14017023/joel-t-mathew" target="_blank"><img src="https://img.shields.io/badge/StackOVERFLOW-%23FF00FF.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" class="badge-glow"/></a> 
-        <a href="https://github.com/joel-tm" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="badge-glow"/></a>
+        <a href="https://stackoverflow.com/users/14017023/joel-t-mathew" target="_blank"><img src="https://img.shields.io/badge/StackOVERFLOW-%23FF00FF.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" class="badge-glow"/></a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/joel-tm" target="_blank">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=joel-tm&theme=radical&border=00FFFF&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Total Contributions" height="95" />
-        </a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=joel-tm&theme=radical&border=00FFFF&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Total Contributions" height="95" />
       </td>
     </tr>
   </table>
