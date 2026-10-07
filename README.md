@@ -5,7 +5,7 @@
        alt="Animated text: Initializing... Link Established, Welcome to Joel tm's Github" />
 </a>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Joel%20tm&fontSize=90&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=Full%20stack%20Engineer%20%20&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Joel-tm - Full Stack Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Joel%20tm&fontSize=55&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=Full%20stack%20Engineer&descAlignY=62&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Joel-tm - Full Stack Engineer" />
 
 </div>
 
@@ -18,29 +18,22 @@
 <div align="center">
 </div>
 
-<!-- NEON SOCIAL BADGES WITH HOVER GLOW EFFECT -->
-<div align="center" class="badges-container">
-    <a href="https://stackoverflow.com/users/14017023/joel-t-mathew" target="_blank"><img src="https://img.shields.io/badge/StackOVERFLOW-%23FF00FF.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" class="badge-glow"/></a> 
-  <a href="https://github.com/joel-tm" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="badge-glow"/></a>
-
-
+<!-- BADGES & CONTRIBUTIONS SECTION -->
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://stackoverflow.com/users/14017023/joel-t-mathew" target="_blank"><img src="https://img.shields.io/badge/StackOVERFLOW-%23FF00FF.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" class="badge-glow"/></a> 
+        <a href="https://github.com/joel-tm" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="badge-glow"/></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/joel-tm" target="_blank">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=joel-tm&theme=radical&border=00FFFF&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Total Contributions" height="95" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<!-- SHIELDS.IO BADGES FOR FOLLOWERS/STARS -->
-<!--
-<div align="center">
-  <a href="https://github.com/joel-tm?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/joel-tm?label=Followers&style=for-the-badge&color=00FFFF" alt="Followers"/></a>
-</div> -->
-
-
-
-<!-- GITHUB STATS SECTION – VISUAL + PROOF OF WORK -->
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joel-tm&theme=radical&border=00FFFF&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF" alt="GitHub Streak"/>
-
-
-<!-- HOLOGRAPHIC SEPARATOR -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
 <!-- CTA LINE -->
@@ -60,16 +53,12 @@
 <!-- ENHANCED CYBERNETIC PROFILE WITH 3D ANIMATION -->
 <table align="center" class="cyberpunk-table">
   <tr>
-    <td>
-      <h3 align="center"></h3>
-      <div align="center">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Binary Pulse" />
-      </div>
+    <td align="center" valign="middle">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="170" alt="Binary Pulse" />
     </td>
-<td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-tm&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8&card_width=300" /></td>
-
-</td>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-tm&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8&card_width=300" alt="Top Languages" />
+    </td>
   </tr>
 </table>
 
@@ -119,7 +108,7 @@
   <h3>⚙️ Technology STACK</h3>
   
   <!-- Frontend -->
-  <details open>
+  <details>
     <summary><b>🔮 FRONTEND</b></summary>
     <br>
     <div class="tech-badge-container">
@@ -132,7 +121,7 @@
   </details>
 
   <!-- Backend -->
-  <details open>
+  <details>
     <summary><b>🧠 BACKEND</b></summary>
     <br>
     <div class="tech-badge-container">
@@ -144,7 +133,7 @@
   </details>
 
   <!-- Database -->
-  <details open>
+  <details>
     <summary><b>💾 MEMORY (DATABASE)</b></summary>
     <br>
     <div class="tech-badge-container">
@@ -156,7 +145,7 @@
   </details>
 
   <!-- AI/ML -->
-  <details open>
+  <details>
     <summary><b>🤖 NEURAL NETWORK (AI/ML)</b></summary>
     <br>
     <div class="tech-badge-container">
@@ -176,32 +165,6 @@
 <!-- robotics SIGNATURES WITH ADVANCED VISUALIZATION -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
-<!--
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40" alt="">
-  <span style="color:#00FFFF"> SIGNATURES </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40" alt="">
-</h2>
--->
-
-<!-- ENHANCED ACTIVITY GRAPH WITH HOLOGRAPHIC EFFECT -->
-<!--
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joel-tm&theme=react-dark&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Activity Graph"/>
-</div>
--->
-
-<!-- ENHANCED STATISTICS DISPLAY -->
-<table align="center">
-  <tr>
-    <td>
-      <!-- Top Languages & Core Signatures -->
-<table align="center" style="border: none; background-color: transparent;">
-</table>
-
-<!-- HOLOGRAPHIC SEPARATOR -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt=""> -->
 
 <!-- ENHANCED CONTACT SECTION -->
 <div align="center">
