@@ -134,16 +134,6 @@
 
 
 <!-- ENHANCED CONTACT SECTION -->
-<div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25" alt="">
-    TRANSMISSION COORDINATES
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25" alt="">
-  </h3>
-
-<img src="https://img.shields.io/badge/Origin-Earth-00FFFF?style=for-the-badge&logo=GoogleMaps&logoColor=black"  alt="Origin:Earth"/>
-<div align="center">
-</div>
 
 <!-- DYNAMIC GRADIENT FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Footer: System Online"/>
