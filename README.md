@@ -27,33 +27,30 @@
 <!-- CTA LINE -->
 
 
-<!-- NEURAL INTERFACE SECTION WITH PULSE ANIMATION -->
+<!-- OVERVIEW SECTION -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35" alt="">
   <span style="color:#00FFFF"> OVERVIEW </span>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35" alt="">
 </h2>
-<!-- <h3 align="center">My Profile Overview</h3> -->
-<p align="left">
-  Software Engineer specializing in full-stack development, microservices, and Azure-based cloud solutions.
-  Hardware   - raspberry pi, arduino, robotics building
-</p>
-<!-- ENHANCED CYBERNETIC PROFILE WITH 3D ANIMATION -->
-<table align="center" class="cyberpunk-table">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="170" alt="Binary Pulse" />
+
+<table align="center" style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td align="center" valign="middle" style="border: none; background: transparent; padding: 0 10px;">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Binary Pulse" />
     </td>
-    <td align="center" valign="middle">
+    <td align="left" valign="middle" style="border: none; background: transparent; padding: 0 15px; max-width: 320px;">
+      <p style="margin: 0; line-height: 1.5;">
+        Software Engineer specializing in full-stack development, microservices, and Azure-based cloud solutions.
+        <br><br>
+        ⚙️ <b>Hardware:</b> Raspberry Pi, Arduino, Robotics building
+      </p>
+    </td>
+    <td align="center" valign="middle" style="border: none; background: transparent; padding: 0 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-tm&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8&card_width=300" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-<!-- HOLOGRAPHIC KEY METRICS WITH ADVANCED VISUALIZATION -->
-<div align="center">
-
-  <!-- ENHANCED STATS WITH 3D HOLOGRAM EFFECT -->
 
 
 <!-- HOLOGRAPHIC SEPARATOR WITH ANIMATED PULSE -->
