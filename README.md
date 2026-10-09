@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Joel%20tm&fontSize=55&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=Full%20stack%20Engineer&descAlignY=62&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Joel-tm - Full Stack Engineer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=Joel%20tm&fontSize=42&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=Full%20stack%20Engineer&descAlignY=64&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Joel-tm - Full Stack Engineer" />
 </div>
 
 <p align="center">
@@ -11,12 +10,12 @@
 
 <!-- BADGES & CONTRIBUTIONS SECTION -->
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://stackoverflow.com/users/14017023/joel-t-mathew" target="_blank"><img src="https://img.shields.io/badge/StackOVERFLOW-%23FF00FF.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" class="badge-glow"/></a>
+  <table align="center" style="border: none; background: transparent;">
+    <tr style="border: none; background: transparent;">
+      <td align="center" valign="middle" style="border: none; background: transparent; padding: 0 15px;">
+        <a href="https://stackoverflow.com/users/14017023/joel-t-mathew" target="_blank"><img src="https://img.shields.io/badge/StackOVERFLOW-%23FF00FF.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" height="38"/></a>
       </td>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" style="border: none; background: transparent; padding: 0 15px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=joel-tm&theme=radical&border=00FFFF&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Total Contributions" height="95" />
       </td>
     </tr>
@@ -133,4 +132,4 @@
 <!-- ENHANCED CONTACT SECTION -->
 
 <!-- DYNAMIC GRADIENT FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Footer: System Online"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=SYSTEM%20ONLINE&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=72&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Footer: System Online"/>
