@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=Joel%20tm&fontSize=42&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=Full%20stack%20Engineer&descAlignY=64&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Full Stack Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=Full%20Stack%20Engineer&fontSize=42&animation=fadeIn&fontColor=fff&fontAlignY=45&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Full Stack Engineer" />
 </div>
 
 <!-- TYPING BANNER FLANKED BY STACKOVERFLOW & TOTAL CONTRIBUTIONS -->
@@ -26,11 +26,11 @@
 
 
 <!-- OVERVIEW SECTION -->
-<h2 align="center">
+<h3 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35" alt="">
   <span style="color:#00FFFF"> OVERVIEW </span>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35" alt="">
-</h2>
+</h3>
 
 <table align="center" style="border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
@@ -56,11 +56,11 @@
 
 <!-- TECHNOLOGY MATRIX & STACK SECTION -->
 <div align="center">
-  <h2>
+  <h3>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="35" height="35" alt="">
     <span style="color:#00FFFF"> TECHNOLOGY MATRIX </span>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="35" height="35" alt="">
-  </h2>
+  </h3>
 
   <table align="center" style="border: none; background: transparent;">
     <tr style="border: none; background: transparent;">
