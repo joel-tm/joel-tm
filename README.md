@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=Joel%20tm&fontSize=42&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=Full%20stack%20Engineer&descAlignY=64&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Joel-tm - Full Stack Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&text=Joel%20tm&fontSize=42&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=Full%20stack%20Engineer&descAlignY=64&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Full Stack Engineer" />
 </div>
 
 <!-- TYPING BANNER FLANKED BY STACKOVERFLOW & TOTAL CONTRIBUTIONS -->
